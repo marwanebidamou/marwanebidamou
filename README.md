@@ -6,8 +6,8 @@
 
 ## 🛠 **Technical Expertise**:
 - **Languages**: C#, TypeScript, JavaScript.
-- **Backend**: ASP.NET Core, Entity Framework, Web APIs, gRPC, GraphQL.
-- **Frontend**: React, Angular, HTML, CSS, Bootstrap, Tailwind CSS.
+- **Backend**: ASP.NET Core, Entity Framework, Web APIs, gRPC, GraphQL, Node.js, Express.
+- **Frontend**: Angular, React, HTML, CSS, Bootstrap, Tailwind CSS.
 - **Database**: SQL Server, LINQ, MongoDB.
 - **DevOps & Tools**: Docker, Git, Azure, RabbitMQ, Nginx, IIS, xUnit.
 - **Cloud**: Azure services, aiming to expand into AWS.
